@@ -3,12 +3,12 @@ export const quiz =  {
   "quizSynopsis": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim",
   "questions": [
     {
-      "question": "How can you access the state of a component from inside of a member function?",
+      "question": "fernando silva de alencar junior",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
         "this.getState()",
-        "this.prototype.stateValue",
+        "hdusfhusdhfusdhfushdufhsudfhus",
         "this.state",
         "this.values"
       ],
@@ -66,10 +66,9 @@ export const quiz =  {
       "questionType": "photo",
       "answerSelectionType": "single",
       "answers": [
-        "https://dummyimage.com/600x400/000/fff&text=A",
-        "https://dummyimage.com/600x400/000/fff&text=B",
-        "https://dummyimage.com/600x400/000/fff&text=C",
-        "https://dummyimage.com/600x400/000/fff&text=D"
+        "Component-oriented design",
+        "Event delegation model",
+        "Both of the above",
       ],
       "correctAnswer": "1",
       "messageForCorrectAnswer": "Correct answer. Good job.",

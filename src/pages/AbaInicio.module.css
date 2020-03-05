@@ -1,0 +1,28 @@
+.titulo{
+  font-family: nunito;
+  text-align: center;
+  font-size: 5vw;
+}
+.subTitulo{
+  font-family: nunito;
+  font-size: 4vw;
+}
+.tituloheader{
+  font-family: nunito;
+  text-align: center;
+  font-weight: 100;
+  font-size: 9vw;
+  color: aliceblue;
+  font-display: flex;
+}
+
+
+
+
+
+
+
+@font-face{
+  font-family: nunito;
+  src: url(../fonts/Nunito-Regular.ttf);
+}
