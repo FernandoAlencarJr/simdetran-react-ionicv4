@@ -9,7 +9,7 @@ export default function ModalComp(props) {
     <IonTitle>
       {props.titulo}
     </IonTitle>
-    <IonButton href={'/detrandf'}>
+    <IonButton href={props.href}>
         Iniciar Simulado
     </IonButton>
 </>
