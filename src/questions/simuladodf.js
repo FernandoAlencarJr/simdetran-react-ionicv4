@@ -19,7 +19,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Trânsito compartilhado por ciclistas e pedestres.",
@@ -35,7 +35,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": 'As praias abertas à circulação pública, as vias internas pertencentes aos condomínios constituídos por unidades autônomas e os estacionamentos privados de uso coletivo são, para efeito do código de Trânsito Brasileiro, considerados:' ,
@@ -51,7 +51,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Constitui(em) documento(s) de porte obrigatório:",
@@ -67,7 +67,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Para habilitar-se na categoria “E”, o condutor deverá possuir no mínimo:",
@@ -83,7 +83,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta, ou de forma agressiva, é infração ________ gerando como medida administrativa ________.",
@@ -99,7 +99,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Dirigir o veículo segurando ou manuseando o telefone celular, é uma infração ________, com o valor de ________ e serão computados ____ pontos na CNH.",
@@ -115,7 +115,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Quando um condutor cometer, simultaneamente, duas ou mais infrações:",
@@ -131,7 +131,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "A cassação do documento de habilitação ocorrerá quando o condutor cometer a seguinte infração:",
@@ -147,7 +147,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Não é considerado crime de trânsito:",
@@ -163,7 +163,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "É muito comum se utilizar de galhos de árvores e outros materiais para complementar a sinalização de emergência. Porém, o que muitos condutores não sabem é que deixar de retirar todo e qualquer objeto que tenha sido utilizado para sinalização temporária da via, caracteriza infração:",
@@ -179,7 +179,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Uma infração cometida com o veículo licenciado no exterior, estando em trânsito no território nacional, a respectiva multa:",
@@ -195,7 +195,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "A fiscalização da gestão de trânsito poderá ser realizada com a utilização de aparelhos que, quanto ao modo de operação, podem ser classificados em:",
@@ -211,7 +211,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Deixar o condutor ou passageiro de usar o cinto de segurança é infração ______, gerando a penalidade de ______.",
@@ -227,7 +227,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Constitui infração de trânsito, exceto:",
@@ -243,7 +243,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Promover, fiscalizar e controlar o processo de habilitação, aperfeiçoamento, reciclagem e suspensão de condutores, é competência:",
@@ -259,7 +259,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Para qual categoria não se realiza prova prática de direção veicular em via pública?",
@@ -275,7 +275,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "O condutor habilitado na categoria “A” pode conduzir:",
@@ -291,7 +291,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Executar a fiscalização de trânsito, quando e conforme convênio firmado, com agente do órgão ou entidade, executivos de trânsito ou executivos rodoviários, concomitantemente com os demais agentes credenciados, compete:",
@@ -307,7 +307,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "A Licença de Aprendizagem para prática de direção veicular em via pública (LADV), ou em locais autorizados para este fim, será expedida pelo DETRAN ao candidato que:",
@@ -323,7 +323,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "QPara conduzir um trator de rodas na via pública é necessário:",
@@ -339,7 +339,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "A Junta Administrativa de Recursos de Infrações é um órgão colegiado componente do:",
@@ -355,7 +355,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Os DERs (Departamentos de Estradas de Rodagem) tem a função principal de planejar, projetar, regulamentar e operar o trânsito nas:",
@@ -371,7 +371,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "RENAVAM é o:",
@@ -387,7 +387,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Na infração, dirigir veículo falando ao celular através de fones de ouvido, quantos pontos perde na carteira?",
@@ -403,7 +403,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Dirigir com CNH ou PPD de categoria diferente da do veículo que esteja conduzindo, terá como penalidade e medida administrativa:",
@@ -419,7 +419,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Constitui infração grave:",
@@ -435,7 +435,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "A sinalização horizontal é classificada em:",
@@ -451,7 +451,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Trânsito compartilhado por ciclistas e pedestres.",
@@ -467,7 +467,7 @@ export const quiz = {
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
       "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
@@ -477,175 +477,175 @@ export const quiz = {
         "80 metros.",
         "50 metros.",
         "90 metros.",
-        "120 metros."
+        "11 metros."
       ],
       "correctAnswer": "2",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "É velocidade máxima permitida nas vias rurais sem sinalização, exceto:",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "80 km/h para caminhões em rodovias.",
+        "90 km/h para ônibus e micro-ônibus nas rodovias.",
+        "60 km/h nas estradas para todos os veículos.",
+        "110 km/h nas rodovias para utilitários."
       ],
-      "correctAnswer": "2",
+      "correctAnswer": "1",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "A válvula termostática fica localizada entre o radiador e o motor, ajudando a controlar o calor produzido pela queima da mistura ar-combustível. Esta peça é componente do sistema de:",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "Arrefecimento.",
+        "Ignição.",
+        "Elétrico.",
+        "Alimentação."
       ],
-      "correctAnswer": "2",
+      "correctAnswer": "1",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "Vento lateral.",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "https://aimore.net/placas/placa_de_transito_A-26a.jpg",
+        "https://aimore.net/placas/placa_de_transito_A-44.jpg",
+        "https://aimore.net/placas/placa_de_transito_A-29.jpg",
+        "https://aimore.net/placas/placa_de_transito_A-27.jpg"
       ],
       "correctAnswer": "2",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "Ponte estreita.",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "https://aimore.net/placas/placa_de_transito_A-28.jpg",
+        "https://aimore.net/placas/placa_de_transito_A-19.jpg",
+        "https://aimore.net/placas/placa_de_transito_A-22.jpg",
+        "https://aimore.net/placas/placa_de_transito_A-21d.jpg"
       ],
-      "correctAnswer": "2",
+      "correctAnswer": "3",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "Realizar conversão à direita.",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "https://aimore.net/placas/R-25d.jpg",
+        "https://aimore.net/placas/placa_R-24a.html",
+        "https://aimore.net/placas/placa_R-25b.html",
+        "https://aimore.net/placas/R-4b.jpg"
       ],
-      "correctAnswer": "2",
+      "correctAnswer": "4",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "Mensagens adicionais podem ser incorporadas às placas de sinalização de regulamentação e de advertência. Estas mensagens são denominadas:",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "Informações complementares.",
+        "Informações especializadas.",
+        "Mensagens avulsas.",
+        "Comunicados extras."
       ],
-      "correctAnswer": "2",
+      "correctAnswer": "1",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "As provas ou competições desportivas em via aberta à circulação, só poderão ser realizadas mediante prévia permissão da autoridade de trânsito. Para a concessão desta autorização, as provas ou competições dependerão de:",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "Contrato de seguro contra riscos e acidentes em favor de terceiros.",
+        "Pagamento posterior dos custos operacionais.",
+        "Caução para cobrir danos pessoais.",
+        "Notoriedade do evento."
       ],
-      "correctAnswer": "2",
+      "correctAnswer": "1",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "Em relação à circulação de veículos automotores nas vias terrestres, podemos afirmar que:",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "Os veículos que se deslocam sobre trilhos terão preferência de passagem sobre os demais, respeitadas as normas de circulação.",
+        "A prioridade de passagem na via e no cruzamento não deverá ser reduzida, pois acarreta perigo aos veículos que transitam à retaguarda.",
+        "A preferência de passagem será, sempre, do veículo que vier à direita do outro.",
+        "O condutor poderá livremente frear de modo brusco seu veículo nas vias urbanas."
       ],
-      "correctAnswer": "2",
+      "correctAnswer": "1",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "Quando uma pista de rolamento comportar várias faixas de circulação no mesmo sentido, as da esquerda são destinadas à _______ e ao _______ dos veículos de maior velocidade.",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "Parada; estacionamento.",
+        "Ultrapassagem; cruzamento.",
+        "Passagem; retorno.",
+        "Ultrapassagem; deslocamento."
       ],
-      "correctAnswer": "2",
+      "correctAnswer": "4",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
     {
-      "question": "Para cruzar a pista o pedestre deve sempre utilizar as faixas de passagens a ele destinadas sempre que essas existirem numa distância de até:",
+      "question": "A transposição de faixas pode ser realizada pela faixa:",
       "questionType": "text",
       "answerSelectionType": "single",
       "answers": [
-        "80 metros.",
-        "50 metros.",
-        "90 metros.",
-        "120 metros."
+        "Da esquerda.",
+        "Da direita ou da esquerda.",
+        "Da direita.",
+        "Central."
       ],
       "correctAnswer": "2",
       "messageForCorrectAnswer": "Correto bom trabalho.",
       "messageForIncorrectAnswer": "Resposta incorreta tente novamente.",
       "explanation": "",
-      "point": "20"
+      "point": "1"
     },
-    
+
 
   ]
 } 
