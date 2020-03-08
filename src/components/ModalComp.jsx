@@ -1,17 +1,23 @@
 import React from 'react';
-import { } from './ModalComp'
-import {IonButton,IonTitle, }from '@ionic/react'
+import {titulomodal,headermodal } from './ModalComp.module.css'
+import { IonButton, IonTitle, IonHeader, IonImg } from '@ionic/react'
+import placamodal from '../Images/placamodal.jpg'
   
 export default function ModalComp(props) {
   return (
 <>
-
-    <IonTitle>
-      {props.titulo}
-    </IonTitle>
-    <IonButton href={props.href}>
+      <IonHeader className={headermodal}>
+        <IonTitle className={titulomodal}>
+      simulado <strong>{props.titulo}</strong>
+        </IonTitle>
+      </IonHeader>
+      <IonImg
+        src={placamodal}
+      />
+    <IonButton href={props.href} color='tertiary'>
         Iniciar Simulado
     </IonButton>
+
 </>
   );
 }

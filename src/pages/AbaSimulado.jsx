@@ -1,7 +1,9 @@
 import React, { useState,useEffect} from 'react';
-import { IonPage,IonModal, IonButton, IonContent} from '@ionic/react'
+import { IonPage, IonModal, IonButton, IonContent,IonIcon } from '@ionic/react'
+import {closeCircleOutline} from 'ionicons/icons'
 import ModalComp from '../components/ModalComp'
 import LoadingComp from '../components/LoadingComp'
+import { modalionic} from './AbaSimulado.module.css'
 
 export default function AbaSimulado() {
   const [loading, setLoading] = useState(true)
@@ -26,39 +28,44 @@ export default function AbaSimulado() {
   return (loading ? <LoadingComp infor={'Boa sorte! simDetran'}/> :
     <IonPage>
       <IonContent>
-        <IonModal isOpen={showModaldf}>
-          <ModalComp
-            titulo='Simulado Distrito Federal'
+        <IonModal isOpen={showModaldf} >
+          <ModalComp 
+            titulo='Distrito Federal'
             href='/DetranDf'
+            className={modalionic}
           />
-          <IonButton onClick={() => setShowModaldf(false)}>Close Modal</IonButton>
+          <IonButton onClick={() => setShowModaldf(false)}><IonIcon icon={closeCircleOutline}>
+         </IonIcon>Fechar</IonButton>
         </IonModal>
       </IonContent>
       <IonContent>
         <IonModal isOpen={showModalrj}>
         <ModalComp
-            titulo='Simulado Rio de Janeiro'
+            titulo='Rio de Janeiro'
             href='/DetranRj'
           />
-        <IonButton onClick={() => setShowModalrj(false)}>Close Modal</IonButton>
+        <IonButton onClick={() => setShowModalrj(false)}><IonIcon icon={closeCircleOutline}>
+         </IonIcon>Fechar</IonButton>
         </IonModal>
       </IonContent>
       <IonContent>
         <IonModal isOpen={showModalam}>
         <ModalComp
-            titulo='Simulado Amazonas'
+            titulo='Amazonas'
             href='/DetranAm'
           />
-        <IonButton onClick={() => setShowModalam(false)}>Close Modal</IonButton>
+          <IonButton onClick={() => setShowModalam(false)}><IonIcon icon={closeCircleOutline}>
+         </IonIcon>Fechar</IonButton>
         </IonModal>
       </IonContent>
       <IonContent>
         <IonModal isOpen={showModalba}>
         <ModalComp
-            titulo='Simulado Bahia'
+            titulo='Bahia'
             href='/DetranBa'
           />
-        <IonButton onClick={() => setShowModalba(false)}>Close Modal</IonButton>
+        <IonButton onClick={() => setShowModalba(false)}><IonIcon icon={closeCircleOutline}>
+         </IonIcon>Fechar</IonButton>
         </IonModal>
       </IonContent>
       <IonButton onClick={() => setShowModalam(true)}>SIMULADO/AM</IonButton>
