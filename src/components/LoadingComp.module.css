@@ -1,0 +1,15 @@
+.cardloading{
+  text-align: center;
+}
+.tituloloading{
+  text-align: center;
+  color: aliceblue;
+  font-family: nunito;
+  font-size: 1.5em;
+}
+
+
+@font-face{
+  font-family: nunito;
+  src: url(../fonts/Nunito-Regular.ttf);
+}

@@ -5,7 +5,7 @@ IonSlide,IonSlides,IonIcon,IonTitle,IonContent,IonHeader,IonFooter} from '@ionic
 import { titulo,subTitulo,tituloheader} from './AbaInicio.module.css'
 import FotoHome from '../Images/FotoHome.png'
 import { arrowForwardOutline } from 'ionicons/icons'
-
+import LoadingComp from '../components/LoadingComp'
 
 
 
@@ -15,14 +15,13 @@ import { arrowForwardOutline } from 'ionicons/icons'
    useEffect(() => {
      setTimeout(() => {
        setLoading(false)
-       
-     },1000)
+     },5500)
    },[])
 
 
 
     return (
-      loading ? <p>loading</p> :
+      loading ? <LoadingComp infor={'Iniciando o Aplicativo .'}/>:
         <IonPage >
           <IonHeader>
             <IonTitle className={tituloheader}><strong>simDetran</strong></IonTitle>
