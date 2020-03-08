@@ -1,26 +1,32 @@
 import React from 'react';
-import { IonPage, IonFooter, IonHeader, IonContent, IonTitle } from '@ionic/react'
-import { tituloheader} from './Estilos.module.css'
+import { IonPage, IonFooter, IonHeader, IonContent, IonTitle, } from '@ionic/react'
+import { tituloheader,conteudoquiz} from './Estilos.module.css'
 import Quiz from 'react-quiz-component'
-import {quiz} from '../../questions/simuladodf'
+import {quiz} from '../../questions/simulado1'
+import {quiz1} from '../../questions/simulado2'
 
-export default function DetranDf() {
+export default function DetranDf(props) {
 
   return (
     <IonPage>
-
     <IonHeader>
-      QizDF
-    </IonHeader>
-      <IonContent>
-      <Quiz quiz={quiz}></Quiz>
-      </IonContent>
+    <IonTitle className={tituloheader}>
+      <strong>simDetran</strong>  Distrito Federal
+      </IonTitle>
+      </IonHeader>
+      <IonContent className={conteudoquiz}>
+      <Quiz quiz={quiz} shuffle={true}></Quiz>
+
+      <Quiz quiz={quiz1} shuffle={true}></Quiz>
+
+      <Quiz quiz={quiz} shuffle={true}></Quiz>
+    </IonContent>
+
       <IonFooter>
       <IonTitle className={tituloheader}>
       <strong>simDetran</strong>  Distrito Federal
       </IonTitle>
       </IonFooter>
     </IonPage>
-
   );
 }

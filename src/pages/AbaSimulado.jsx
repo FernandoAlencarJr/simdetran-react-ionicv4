@@ -6,11 +6,11 @@ import LoadingComp from '../components/LoadingComp'
 import { modalionic} from './AbaSimulado.module.css'
 
 export default function AbaSimulado() {
-  const [loading, setLoading] = useState(true)
+  const [loading, setLoading] = useState(false)
   useEffect(() => {
     setTimeout(() => {
       setLoading(false)
-    },3000)
+    },10000)
   },[])
 
   const [showModaldf, setShowModaldf] = useState(false)

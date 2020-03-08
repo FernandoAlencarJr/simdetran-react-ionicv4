@@ -15,9 +15,10 @@ import AbaInicio from './pages/AbaInicio';
 import AbaSimulado from './pages/AbaSimulado';
 import AbaDicas from './pages/AbaDicas';
 import DetranDf from './pages/secundarias page/DetranDf'
-import DetranRj from './pages/secundarias page/DetranRj'
 import DetranAm from './pages/secundarias page/DetranAm'
 import DetranBa from './pages/secundarias page/DetranBa'
+import DetranRj from './pages/secundarias page/DetranRj'
+
 
 
 const Rotas: React.FC = () => (
@@ -31,9 +32,9 @@ const Rotas: React.FC = () => (
           <Route path="/AbaSimulado" component={AbaSimulado} exact={true} />
           <Route path="/AbaDicas" component={AbaDicas} />
           <Route path="/DetranDf" component={DetranDf} />
-          <Route path="/DetranRj" component={DetranRj} />
           <Route path="/DetranAm" component={DetranAm} />
           <Route path="/DetranBa" component={DetranBa} />
+          <Route path="/DetranRj" component={DetranRj} />
           <Route path="/" render={() => <Redirect to="/AbaInicio" />} exact={true} />
         </IonRouterOutlet>
         <IonTabBar slot="bottom">

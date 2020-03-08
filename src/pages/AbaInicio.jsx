@@ -15,7 +15,7 @@ import LoadingComp from '../components/LoadingComp'
    useEffect(() => {
      setTimeout(() => {
        setLoading(false)
-     },5500)
+     },10000)
    },[])
 
 
@@ -34,7 +34,7 @@ import LoadingComp from '../components/LoadingComp'
           <IonSlide>
         <IonCard color='tertiary'>
             <IonCardTitle className={titulo}>Bem vindo ao <strong>simDetran</strong></IonCardTitle>
-                <IonCardSubtitle className={subTitulo}>O simDetran ajuda na preparação do candidato para o exame de Legislação de Trânsito, que é composto de 30 questões de múltipla escolha e tem duração de 60 minutos. </IonCardSubtitle>
+                <IonCardSubtitle className={subTitulo}>O simDetran ajuda na preparação do candidato para o exame de Legislação de Trânsito, que é composto de 30 questões de múltiplas escolhas e tem duração de 60 minutos. </IonCardSubtitle>
                 <IonTitle>Deslize este card e saiba mais<IonIcon icon={arrowForwardOutline} /></IonTitle>
           
         </IonCard>
