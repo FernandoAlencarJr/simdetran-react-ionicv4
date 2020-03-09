@@ -1,3 +1,13 @@
 .modalionic{
 background-color: #6A5ACD;
 }
+.headerandfooter{
+  color: aliceblue;
+  text-align: center;
+  font-size: 1em;
+  font-family: nunito;
+  box-shadow: 3px 3px rgba(0, 0, 0, 0.281);
+}
+.simuladocard{
+  align-items: center;
+}

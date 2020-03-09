@@ -18,6 +18,17 @@ import DetranDf from './pages/secundarias page/DetranDf'
 import DetranAm from './pages/secundarias page/DetranAm'
 import DetranBa from './pages/secundarias page/DetranBa'
 import DetranRj from './pages/secundarias page/DetranRj'
+import DetranCe from './pages/secundarias page/DetranCe'
+import DetranGo from './pages/secundarias page/DetranGo'
+import DetranEs from './pages/secundarias page/DetranEs'
+import DetranMa from './pages/secundarias page/DetranMa'
+import DetranMt from './pages/secundarias page/DetranMt'
+import DetranMs from './pages/secundarias page/DetranMs'
+import DetranMg from './pages/secundarias page/DetranMg'
+import DetranPa from './pages/secundarias page/DetranPa'
+import DetranPb from './pages/secundarias page/DetranPb'
+import DetranRn from './pages/secundarias page/DetranRn'
+import DetranSc from './pages/secundarias page/DetranSc'
 
 
 
@@ -35,6 +46,17 @@ const Rotas: React.FC = () => (
           <Route path="/DetranAm" component={DetranAm} />
           <Route path="/DetranBa" component={DetranBa} />
           <Route path="/DetranRj" component={DetranRj} />
+          <Route path="/DetranCe" component={DetranCe} />
+          <Route path="/DetranGo" component={DetranGo} />
+          <Route path="/DetranEs" component={DetranEs} />
+          <Route path="/DetranMa" component={DetranMa} />
+          <Route path="/DetranMt" component={DetranMt} />
+          <Route path="/DetranMs" component={DetranMs} />
+          <Route path="/DetranMg" component={DetranMg} />
+          <Route path="/DetranPa" component={DetranPa} />
+          <Route path="/DetranPb" component={DetranPb} />
+          <Route path="/DetranRn" component={DetranRn} />
+          <Route path="/DetranSc" component={DetranSc} />
           <Route path="/" render={() => <Redirect to="/AbaInicio" />} exact={true} />
         </IonRouterOutlet>
         <IonTabBar slot="bottom">

@@ -43,7 +43,7 @@ import LoadingComp from '../components/LoadingComp'
           <IonCard color='tertiary'>
           <IonCardContent>
             <IonCardTitle className={titulo}>Bem vindo ao <strong>simDetran</strong></IonCardTitle>
-            <IonCardSubtitle className={subTitulo}>O nosso <strong>Aplicativo</strong>  foi desenvolvido pensando em melhor desempenho do aluno na hora de executar a prova téorica do DETRAN. Simulados totalmente atualizados de acordo com provas que foram passadas em 2019 </IonCardSubtitle>
+            <IonCardSubtitle className={subTitulo}>O nosso <strong>Aplicativo</strong>  foi desenvolvido pensando em melhor desempenho do aluno na hora de executar a prova teórica do DETRAN. Simulados totalmente atualizados de acordo com provas que foram passadas em 2019 </IonCardSubtitle>
           </IonCardContent>
         </IonCard>
           </IonSlide>

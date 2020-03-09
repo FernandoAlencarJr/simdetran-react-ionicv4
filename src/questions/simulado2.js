@@ -1,6 +1,6 @@
 export const quiz1 = {
-  "quizTitle": "2017",
-  "quizSynopsis": 'ESTE SIMULADO FOI REALIZADO COM AS PRINCIPAIS QUESTÕES QUE MAIS CAÍRAM EM 2017 ',
+  "quizTitle": "2018",
+  "quizSynopsis": 'ESTE SIMULADO FOI REALIZADO COM AS PRINCIPAIS QUESTÕES QUE MAIS CAÍRAM EM 2018 ',
   "questions": [
     {
       "question": "As provas ou competições desportivas em via aberta à circulação, só poderão ser realizadas mediante prévia permissão da autoridade de trânsito. Para a concessão desta autorização, as provas ou competições dependerão de:",
